@@ -1,12 +1,12 @@
 <h1 align="center">Welcome to Alejandro´s space👋</h1>
 <h3 align="center">A passionate developer from Spain</h3>
-
+<p align="center">
 - 🌱 I’m currently studyng at **University of Oviedo**
 
 - 💬 Ask me about **java,phyton,html,css...**
 
 - 📫 How to reach me **AMedina@gmx.es**
-
+</p>
 <br>
 
 <h3 align="center">Languages and Tools:</h3>
