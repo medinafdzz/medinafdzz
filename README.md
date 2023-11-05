@@ -25,7 +25,7 @@
 <div align="center">
 <a href="https://github.com/medinafdzz">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=medinafdzz&theme=nightowl" height="180em" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=medinafdzz&hide_progress=true" height="180em" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=medinafdzz&hide_progress=false" height="180em" />
 </div>
 
 <br>
