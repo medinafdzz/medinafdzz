@@ -1,11 +1,11 @@
 <h1 align="center">Welcome to Alejandro´s space👋</h1>
 <h3 align="center">A passionate developer from Spain</h3>
 <div align="center">
-- 🌱 I’m currently studyng at **University of Oviedo**
+🌱 I’m currently studyng at **University of Oviedo**
 
-- 💬 Ask me about **java,phyton,html,css...**
+💬 Ask me about **java,phyton,html,css...**
 
-- 📫 How to reach me **AMedina@gmx.es**
+📫 How to reach me **AMedina@gmx.es**
 </div>
 <br>
 
