@@ -1,5 +1,6 @@
-<h1 align="center">Welcome to Alejandro´s space</h1>
-![wave](https://github.com/medinafdzz/medinafdzz/assets/94020664/4e413909-ba01-40b8-8479-63a61b14c2fe)
+<h1 align="center">Welcome to Alejandro´s space <img align="center" src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" alt="Teacup Without Handle" width="30" /></h1>
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="1050">
 
 <h3 align="center">About me</h3>
 
