@@ -15,7 +15,7 @@
 <br>
 <div align="center">
 <a href="https://github.com/medinafdzz">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=medinafdzz&theme=nightowl&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=medinafdzz&theme=nightowl" height="180em" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=medinafdzz&theme=nightowl&hide_border=true" height="180em" />
 
 </div>
@@ -23,7 +23,7 @@
 <br>
 
 <div align="center">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=medinafdzz&theme=nightowl" height="180em" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=medinafdzz&theme=nightowl&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" height="180em" />
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="center">⚡Activity Graph:</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=medinafdzz&theme=nightowl"/>
