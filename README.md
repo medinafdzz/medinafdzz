@@ -4,7 +4,7 @@
 <p align="center">
 🌱 I’m currently studying at <strong>University of Oviedo</strong><br>
 💬 Ask me about <strong>java,python,html,css...</strong><br>
-📫 How to reach me <strong>AMedina@gmx.es</strong>
+📫 Contact me:<strong> AMedina@gmx.es</strong>
 </p>
 
 
