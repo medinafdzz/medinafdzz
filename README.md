@@ -1,5 +1,5 @@
 <h1 align="center">Welcome to Alejandro´s space👋</h1>
-<h3 align="center">A passionate developer from Spain</h3>
+<h3 align="center">About me</h3>
 <div align="center">
 🌱 I’m currently studyng at **University of Oviedo**
 <br>
