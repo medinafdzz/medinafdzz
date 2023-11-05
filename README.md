@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from Spain</h3>
 <div align="center">
 🌱 I’m currently studyng at **University of Oviedo**
-
+<br>
 💬 Ask me about **java,phyton,html,css...**
 
 📫 How to reach me **AMedina@gmx.es**
