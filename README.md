@@ -26,7 +26,7 @@
 <div align="center">
 <a href="https://github.com/medinafdzz">
 <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=medinafdzz&theme=nightowl" height="180em" />
-<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=medinafdzz&layout=compact&theme=nightowl" alt=medinafdzz />
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=medinafdzz&layout=compact&theme=nightowl" alt=medinafdzz />
 </div>
 <div align="center">
 <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=medinafdzz&theme=nightowl" height="180em" />
