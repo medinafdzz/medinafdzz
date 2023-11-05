@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **java,phyton,html,css...**
 
-- 📫 How to reach me **AMedina@gmx.es*
+- 📫 How to reach me **AMedina@gmx.es**
 
 <br>
 <h3 align="left">Connect with me:</h3>
