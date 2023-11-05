@@ -19,5 +19,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=medinafdzz&layout=compact&theme=nightowl)](https://github.com/medinafdzz/github-readme-stats)
 
-<br>
+<br></br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=medinafdzz&show_icons=true&theme=nightowl) 
