@@ -9,7 +9,7 @@
 <p align="center">
   🌱 I’m currently studying at <strong>University of Oviedo</strong><br>
   💬 Ask me about <strong>java,python,html,css...</strong><br>
-  📫 Business: <a href="mailto:AlejandroMedinaCode@gmail.es"><strong>AlejandroMedinaCode@gmail.es</strong></a>
+  📫 Business: <a href="mailto:AlejandroMedinaCode@gmail.com"><strong>AlejandroMedinaCode@gmail.com</strong></a>
 </p>
 
 
