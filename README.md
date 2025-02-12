@@ -9,16 +9,7 @@
 <h3 align="center">About me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Zzz.png" alt="Zzz" width="25" height="25" /></h3>
 
 <p align="center">
-  <picture>
-  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.gif" alt="🌱" width="15" height="15">
-</picture>
-  Computer Engineering in Information Technologies at Universidad de Oviedo & Università degli Studi di Salerno
-  <picture>
-  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.gif" alt="🌱" width="15" height="15">
-</picture>
-  <br>
+  🎓 Computer Engineering in Information Technologies at Universidad de Oviedo & Università degli Studi di Salerno 🎓
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
