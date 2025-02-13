@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I’m always on the lookout for new challenges and
 <h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="25" height="25" /> My Tech Stack </h1>
 
 - **Languages:** Python, Java, C++
-- **Front-end:** HTML5, CSS3, React
+- **Front-end:** HTML5, CSS3, JavaScript
 - **Databases:** PostgreSQL
 - **DevOps:** Docker, CI/CD with GitHub Actions
 - **Cloud:** Azure
