@@ -14,9 +14,9 @@ Welcome to my GitHub profile! I’m always on the lookout for new challenges and
 
 - **Languages:** Python, Java, C++
 - **Front-end:** HTML5, CSS3, JavaScript
-- **Databases:** PostgreSQL
+- **Databases:** MySQL, PostgreSQL
 - **DevOps:** Docker, CI/CD with GitHub Actions
-- **Cloud:** Azure
+- **Cloud:** Azure, AWS
 - **Testing:** JaCoCo, PiTest
 - **Static Analysis & Security:** FindSecBugs, SonarCloud
 
