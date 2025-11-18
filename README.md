@@ -5,11 +5,6 @@
 - 💼: <br>
 <h1 style="display: inline-block;">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="25" height="25" /> My Tech Stack
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="25" height="25"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="25" height="25"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="25" height="25"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="postgre" width="25" height="25"/>
 </h1>
 
 - **Languages:** Python, Java, C++
@@ -19,7 +14,10 @@
 - **Cloud:** Azure, AWS
 - **Testing:** JaCoCo, PiTest
 - **Static Analysis & Security:** FindSecBugs, SonarCloud
-
+<br>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=github,python,java,react,tailwind,javascript" />
+</div>
 
 <h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Chart%20Increasing.webp" alt="Chart Increasing" width="25" height="25" /> Statistics</h1>
 <br>
@@ -31,10 +29,28 @@
 <br>
 
 <h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Mobile%20Phone%20With%20Arrow.webp" alt="Mobile Phone With Arrow" width="25" height="25" /> Contact with me! </h1>
+<table width="100%">
+  <tr>
+    <td align="left">
+      <a href="mailto:amedinaf.it@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://linkedin.com/in/medinafdzz" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+      </a>
+    </td>
+    <td align="right">
+      <a href="https://medinafdzz.is-a.dev/" target="_blank">
+        <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alejandromedinacode@gmail.com)
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/medinafdzz/)
-
+<br>
+  
 Thanks for visiting my profile! Have a great day! 🌞
 
 
