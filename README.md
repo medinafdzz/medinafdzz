@@ -22,10 +22,10 @@
 <h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Chart%20Increasing.webp" alt="Chart Increasing" width="25" height="25" /> Statistics</h1>
 <br>
 
-<div align="left">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=medinafdzz&theme=nightowl" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=medinafdzz&theme=nightowl&layout=donut" height="180px" />
-</div>
+[![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=medinafdzz&theme=github_dark)](https://github.com/medinafdzz)
+[![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=medinafdzz&theme=github_dark)](https://github.com/medinafdzz)
+[![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=medinafdzz&theme=github_dark)](https://github.com/medinafdzz)
+
 <br>
 
 <h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Mobile%20Phone%20With%20Arrow.webp" alt="Mobile Phone With Arrow" width="25" height="25" /> Contact with me! </h1>
