@@ -1,8 +1,8 @@
 <h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Light%20Bulb.webp" alt="Light Bulb" width="25" height="25"/> About me</h1>
 
-- 🧑‍🎓: Computer Engineering in Information Technologies at Universidad de Oviedo & Università degli Studi di Salerno <br>
-- 🎓: <br>
-- 💼: <br>
+- Software Engineer @Indra <br>
+- ATM · Communication Systems · Protocol Development <br>
+- Computer Science · Artificial Intelligence <br>
 <h1 style="display: inline-block;">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="25" height="25" /> My Tech Stack
 </h1>
