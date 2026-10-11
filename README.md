@@ -26,8 +26,6 @@ PostgreSQL · MySQL · MariaDB
 
 PyTorch · Hugging Face Transformers · LangChain · LlamaIndex · MLflow
 
-I am interested in software integration, developer tooling, evaluation, validation and maintainability for AI-enabled systems. My current focus is to deepen this stack through my master’s programme and continued hands-on work.
-
 ## Education
 
 - [Master’s Degree in Artificial Intelligence](https://www.uax.com/titulaciones/master-inteligencia-artificial), Universidad Alfonso X el Sabio — in progress.
