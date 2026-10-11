@@ -1,58 +1,60 @@
-<h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Light%20Bulb.webp" alt="Light Bulb" width="25" height="25"/> About me</h1>
+# Alejandro Medina
 
-- Software Engineer @Indra <br>
-- ATM · Communication Systems · Protocol Development <br>
-- Computer Science · Artificial Intelligence <br>
-<h1 style="display: inline-block;">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="25" height="25" /> My Tech Stack
-</h1>
+Software engineer building reliable AI-enabled tools across backend, CI/CD, ATM systems and software quality.
 
-- **Languages:** Python, Java, C++
-- **Front-end:** HTML5, CSS3, JavaScript
-- **Databases:** MySQL, PostgreSQL
-- **DevOps:** Docker, CI/CD with GitHub Actions
-- **Cloud:** Azure, AWS
-- **Testing:** JaCoCo, PiTest
-- **Static Analysis & Security:** FindSecBugs, SonarCloud
-<br>
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=github,python,java,react,tailwind,javascript" />
-</div>
+I am moving toward applied AI software engineering through hands-on developer tooling and a Master’s Degree in Artificial Intelligence. I do not claim production machine-learning experience yet; I focus on building clear, testable and reviewable software.
 
-<h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Chart%20Increasing.webp" alt="Chart Increasing" width="25" height="25" /> Statistics</h1>
-<br>
+## Current focus
 
-[![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=medinafdzz&theme=github_dark)](https://github.com/medinafdzz)
-[![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=medinafdzz&theme=github_dark)](https://github.com/medinafdzz)
-[![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=medinafdzz&theme=github_dark)](https://github.com/medinafdzz)
+- Applications based on language models.
+- Structured outputs and validation.
+- Human-reviewed developer workflows.
+- Automation, observability and software quality.
+- Coursework in artificial intelligence and machine learning.
 
-<br>
+## Selected projects
 
-<h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Mobile%20Phone%20With%20Arrow.webp" alt="Mobile Phone With Arrow" width="25" height="25" /> Contact with me! </h1>
-<table width="100%">
-  <tr>
-    <td align="left">
-      <a href="mailto:amedinaf.it@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://linkedin.com/in/medinafdzz" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-      </a>
-    </td>
-    <td align="right">
-      <a href="https://medinafdzz.is-a.dev/" target="_blank">
-        <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
-      </a>
-    </td>
-  </tr>
-</table>
+### CodeGuardian
 
-<br>
-  
-Thanks for visiting my profile! Have a great day! 🌞
+Academic prototype for AI-assisted code review. It turns static-analysis findings into structured correction proposals, validates the available context and leaves the final decision to a human reviewer.
 
+[View CodeGuardian](https://github.com/medinafdzz/CodeGuardian)
 
+### Commons DbUtils quality study
 
+Academic software-quality study based on Apache Commons DbUtils, including generated regression tests, coverage analysis and benchmarking. The repository documents the methodology and its limits.
 
+[View the repository](https://github.com/medinafdzz/commons-dbutils)
+
+### RemoteWordle
+
+Java client-server project with synchronized matches, concurrent connections and game-event logs.
+
+[View RemoteWordle](https://github.com/medinafdzz/RemoteWordle)
+
+## Engineering background
+
+- Software development for ATM systems.
+- Backend programming and systems work.
+- CI/CD, static analysis, testing and maintainability.
+- Experience working across Java, C, Python and web technologies.
+
+## Education
+
+- Master’s Degree in Artificial Intelligence, Universidad Alfonso X el Sabio — in progress.
+- Computer Engineering in Information Technologies, Escuela Politécnica de Ingeniería de Gijón.
+- Erasmus studies at Università degli Studi di Salerno.
+
+## Building with
+
+Java, C, Python, React, relational databases, CI/CD, automated testing, static analysis and developer tooling.
+
+## Currently learning
+
+AI systems evaluation, MLOps foundations, cloud patterns and reliable applications built around language models.
+
+## Contact
+
+- Portfolio: [medinafdzz.is-a.dev](https://medinafdzz.is-a.dev/)
+- LinkedIn: [linkedin.com/in/medinafdzz](https://linkedin.com/in/medinafdzz)
+- Email: [amedinaf.it@gmail.com](mailto:amedinaf.it@gmail.com)
