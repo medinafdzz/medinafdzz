@@ -6,15 +6,9 @@ I am a software engineer with a background in backend development, ATM systems, 
 
 I am currently studying a Master’s Degree in Artificial Intelligence at Universidad Alfonso X el Sabio. I am interested in how language models can become useful software through thoughtful integration, evaluation and engineering discipline. My next step is to bring my existing software background into applied AI while continuing to build the foundations in machine learning and deep learning.
 
-## Current direction
+## Engineering background & tech stack
 
-- Applied AI and applications built around language models.
-- Software integration and developer tooling.
-- Evaluation, validation and maintainability for AI-enabled software.
-- Machine learning and deep learning foundations through my master’s programme.
-- Reliable backend, automation and quality practices applied to new areas.
-
-## Technologies I enjoy working with
+My engineering background combines backend development, ATM systems, automation and software quality. I work with clear boundaries, repeatable delivery and maintainable software, and I am now applying that foundation to AI-enabled software and language-model applications.
 
 ### Languages and application development
 
@@ -28,25 +22,11 @@ Git · GitHub Actions · Jenkins · Docker · SonarQube · JaCoCo · PiTest
 
 PostgreSQL · MySQL · MariaDB
 
-## Currently learning
+### AI and LLM applications
 
-I am using my master’s programme to strengthen my AI foundations and explore the tools used to build language-model applications:
+PyTorch · Hugging Face Transformers · LangChain · LlamaIndex · MLflow
 
-- **PyTorch** — deep learning foundations and experimentation.
-- **Hugging Face Transformers** — models, tokenization and the open-source ecosystem.
-- **LangChain** — composing applications around language models.
-- **LlamaIndex** — connecting language applications with data and context.
-- **MLflow** — experiment tracking and evaluation.
-
-These are learning goals and areas I want to explore further. They are not presented as established production expertise.
-
-## Engineering background
-
-- Software development for ATM systems.
-- Backend programming and systems work.
-- CI/CD, static analysis, testing and maintainability.
-- Experience working across Java, C, Python and web technologies.
-- A current transition towards software engineering for applied AI.
+I am interested in software integration, developer tooling, evaluation, validation and maintainability for AI-enabled systems. My current focus is to deepen this stack through my master’s programme and continued hands-on work.
 
 ## Education
 
