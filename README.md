@@ -15,7 +15,7 @@ I am building on a background in backend engineering, ATM systems, automation an
 
 Java, C, Python, React, Git, GitHub Actions, Jenkins, Docker, SonarQube, PostgreSQL, MySQL, MariaDB, JaCoCo and PiTest.
 
-## AI/LLM learning roadmap
+## AI/LLM learning
 
 - **PyTorch** — deep learning foundations and model experimentation.
 - **Hugging Face Transformers** — models, tokenizers and the open-source ecosystem.
