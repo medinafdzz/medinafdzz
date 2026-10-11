@@ -2,7 +2,7 @@
 
 Software engineer building reliable AI-enabled tools across backend, CI/CD, ATM systems and software quality.
 
-I am moving toward applied AI software engineering through hands-on developer tooling and a Master’s Degree in Artificial Intelligence. I do not claim production machine-learning experience yet; I focus on building clear, testable and reviewable software.
+I am moving toward applied AI software engineering through hands-on developer tooling and a Master’s Degree in Artificial Intelligence.
 
 ## Current focus
 
