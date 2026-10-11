@@ -1,5 +1,3 @@
-# Alejandro Medina
-
 Software engineer moving into applied AI and LLM applications.
 
 I am a software engineer with a background in backend development, ATM systems, automation and software quality. That experience has shaped how I approach engineering: I value maintainable systems, clear boundaries, repeatable delivery and software that other people can understand and operate.
