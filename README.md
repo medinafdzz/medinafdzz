@@ -1,39 +1,33 @@
-## Software engineer moving into applied AI and LLM applications.
+## Software Engineer — Safety-Critical Systems, AI Control & Agentic Evaluations
 
-I am a software engineer with a background in backend development, ATM systems, automation and software quality. That experience has shaped how I approach engineering: I value maintainable systems, clear boundaries, repeatable delivery and software that other people can understand and operate.
+I am a software engineer specializing in **safety-critical Air Traffic Management (ATM) systems**, deterministic verification, and **AI Control**. Working in high-assurance aviation environments—where software failures are non-negotiable—has shaped how I approach AI engineering: I build hermetic execution sandboxes, reproducible evaluation harnesses, and deterministic guardrails to make untrusted language models safe, auditable, and reliable in production.
 
-I am currently studying a Master’s Degree in Artificial Intelligence at Universidad Alfonso X el Sabio. I am interested in how language models can become useful software through thoughtful integration, evaluation and engineering discipline. My next step is to bring my existing software background into applied AI while continuing to build the foundations in machine learning and deep learning.
+While completing my Master’s in Artificial Intelligence, my work focuses on the intersection of **Scalable Oversight**, **Automated Red-Teaming**, and **Agentic Tool-Use**. Rather than treating LLMs as infallible oracles, I design architectures that cross-examine model outputs against static analysis, AST inspection, and runtime telemetry—giving human operators mathematical, reproducible evidence for when to trust an autonomous system.
 
-## Engineering background & tech stack
+## Engineering Focus & Tech Stack
 
-My engineering background combines backend development, ATM systems, automation and software quality. I work with clear boundaries, repeatable delivery and maintainable software, and I am now applying that foundation to AI-enabled software and language-model applications.
+My background bridges high-reliability backend engineering and empirical AI safety infrastructure. Noticeable themes in my work include zero-state-leakage testing environments, mutation testing, and multi-agent oversight pipelines built on the **Model Context Protocol (MCP)**.
 
-### Languages and application development
+### AI Alignment, Evals & LLM Systems
+Model Context Protocol (MCP) · Multi-Agent Architectures · Agentic Evaluation Harnesses · PyTorch · Hugging Face Transformers · Fine-Tuning (SFT / LoRA) · Constrained Decoding · Automated Red-Teaming · MLflow
 
-Java · C · Python · React · web technologies
+### Systems & Languages
+Python · C++ · C · Java · SQL · Bash · Linux
 
-### Delivery and software quality
+### Sandboxing, Verification & High-Assurance Delivery
+Docker · Kubernetes · Static Analysis & AST Introspection · SonarQube · Mutation Testing (PiTest) · JaCoCo · GitHub Actions · Jenkins · Git
 
-Git · GitHub Actions · Jenkins · Docker · SonarQube · JaCoCo · PiTest
-
-### Data
-
+### Data & Persistence
 PostgreSQL · MySQL · MariaDB
-
-### AI and LLM applications
-
-PyTorch · Hugging Face Transformers · LangChain · LlamaIndex · MLflow
 
 ## Education
 
-- [Master’s Degree in Artificial Intelligence](https://www.uax.com/titulaciones/master-inteligencia-artificial), Universidad Alfonso X el Sabio — in progress.
-- Computer Engineering in Information Technologies, Escuela Politécnica de Ingeniería de Gijón.
-- Erasmus studies at Università degli Studi di Salerno.
+- **[Master’s Degree in Artificial Intelligence](https://www.uax.com/titulaciones/master-inteligencia-artificial)** — Universidad Alfonso X el Sabio *(In progress)*
+- **[B.S. in Computer Engineering (Information Technologies)](https://epigijon.uniovi.es/infoacademica/grados/informatica/info)** — Escuela Politécnica de Ingeniería de Gijón, Universidad de Oviedo *(Thesis: "CodeGuardian" — Multi-Agent CI/CD Code Auditing & Automated Remediation via MCP, Honors 10/10)*
+- **[Erasmus Academic Exchange (Computer Science)](https://corsi.unisa.it/informatica/en/home)** — Università degli Studi di Salerno, Italy
 
 ## Contact
 
-- Portfolio: [medinafdzz.is-a.dev](https://medinafdzz.is-a.dev/)
-- LinkedIn: [linkedin.com/in/medinafdzz](https://linkedin.com/in/medinafdzz)
-- Email: [amedinaf.it@gmail.com](mailto:amedinaf.it@gmail.com)
-
-I am always interested in conversations about software engineering, applied AI, developer tooling and the process of learning new systems well.
+- **Portfolio:** [medinafdzz.is-a.dev](https://medinafdzz.is-a.dev/)
+- **LinkedIn:** [linkedin.com/in/medinafdzz](https://linkedin.com/in/medinafdzz)
+- **Email:** [amedinaf.it@gmail.com](mailto:amedinaf.it@gmail.com)
